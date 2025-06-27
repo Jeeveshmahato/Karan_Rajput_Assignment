@@ -1,5 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
+
 const SectionEleven = () => {
   return (
     <section className="bg-white py-20 text-center">

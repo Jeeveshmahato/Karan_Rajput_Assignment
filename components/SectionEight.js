@@ -1,5 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
+
 const SectionEight = () => {
   return (
     <section className="py-16 px-4 md:px-12 lg:px-24 bg-white text-black">

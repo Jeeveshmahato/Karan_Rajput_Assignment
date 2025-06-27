@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { motion } from "framer-motion";
+
 const SectionNine = () => {
   return (
     <section className="bg-gray-50 my-[40px]">

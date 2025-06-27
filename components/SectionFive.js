@@ -1,6 +1,7 @@
 "use client";
 import Image from "next/image";
 import { motion } from "framer-motion";
+
 const logos = [
   { src: "/9.png", alt: "Hero" },
   { src: "/10.png", alt: "Honda" },

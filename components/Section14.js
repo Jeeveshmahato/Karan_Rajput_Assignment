@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+
 import Image from "next/image";
 //md:px-12
 export default function Section14() {

@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { motion } from "framer-motion";
+
 const SectionTen = () => {
   return (
     <section className="bg-[#f4f8ff] py-20">

@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 
+
 const SectionFour = () => {
   return (
     <section className="relative w-full h-auto text-white py-8 bg-white">

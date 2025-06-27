@@ -2,6 +2,7 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 
+
 export default function FeatureSection() {
   return (
     <section className="bg-white px-4 md:px-12 py-20">

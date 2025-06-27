@@ -2,6 +2,7 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 
+
 export default function LandingSection() {
   return (
     <div className="relative  md:min-h-screen bg-white overflow-hidden">
