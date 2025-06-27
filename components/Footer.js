@@ -13,7 +13,8 @@ const Footer = () => {
 
         {/* Link Columns (slightly lower and right) */}
         <div className="md:col-span-4 grid grid-cols-2 md:grid-cols-4 gap-6 pt-6 pl-4">
-          {[1, 2, 3, 4].map((col) => (
+          {[1, 2, 3, 4].map((col) => ( 
+            
             <div key={col}>
               <h4 className="font-semibold mb-3">Lorem Ipsum</h4>
               <ul className="space-y-2 text-sm text-gray-300">
